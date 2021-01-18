@@ -15,4 +15,9 @@ NuxtJS 是 Vue.js 通用应用框架，让 Web 开发变得简单而强大。
 https://github.com/komavideo/LearnNuxtJS
 
 ## 小马视频频道
+
 http://komavideo.com
+
+## 小马部落(Discord)
+
+https://discord.gg/VSKw72P
