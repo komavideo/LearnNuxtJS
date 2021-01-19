@@ -17,6 +17,7 @@ NuxtJS 是 Vue.js 通用应用框架，让 Web 开发变得简单而强大。
 08. 接收URL参数
 09. 接收多个参数
 10. Nuxt.js模块的使用 - Bootstrap
+11. Axios模块的使用
 
 ## 课程文件
 
