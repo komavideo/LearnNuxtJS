@@ -1,6 +1,10 @@
 NuxtJS + Vue 使用开发入门教学
 ===========================
 
+## 视频讲解（Youtube）
+
+https://www.youtube.com/playlist?list=PLliocbKHJNwsIQbiixKAxaRj23p1nxsxp
+
 ## LearnNuxtJS
 
 NuxtJS 是 Vue.js 通用应用框架，让 Web 开发变得简单而强大。
