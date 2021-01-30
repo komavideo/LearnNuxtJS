@@ -13,6 +13,10 @@ https://nuxtjs.org/
 
 https://zh.nuxtjs.org/
 
+### awesome-nuxt
+
+https://github.com/nuxt-community/awesome-nuxt
+
 ## 使用版本
 
 + v2.14.12
