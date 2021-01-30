@@ -17,6 +17,20 @@ https://zh.nuxtjs.org/
 
 https://github.com/nuxt-community/awesome-nuxt
 
+## 推荐模块
+
+### 官方模块
+
+https://modules.nuxtjs.org/
+
+### @nuxtjs/axios
+
+https://axios.nuxtjs.org/
+
+### @nuxt/content
+
+https://content.nuxtjs.org/
+
 ## 使用版本
 
 + v2.14.12
