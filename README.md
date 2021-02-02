@@ -26,6 +26,7 @@ NuxtJS 是 Vue.js 通用应用框架，让 Web 开发变得简单而强大。
 13. 使用vuex状态管理
 14. Nuxt.js + Vuex + todos 简单实现
 15. Nuxt.js SSR服务器打包部署(会员专享)
+16. 模块使用：nuxt-content - 快速开发 Markdown 语法的网页
 
 ## 课程文件
 
